@@ -1,0 +1,10 @@
+name: compass_workspace
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.9.0-0
+
+workspace:
+  - app
+  - server
